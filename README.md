@@ -1,9 +1,8 @@
 # Vim highlighting for Ceres
----
 Experimental syntax highlighting in vim for the Ceres Programming Language
 
 ## Installing manually
----
+
 Currently, the only way to install the experimental highlighting is manually.
 In the future, there may be support added to install using `Vimplug` or other plugin managers.
 
